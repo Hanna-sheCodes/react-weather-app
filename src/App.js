@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.facebook.com/hanna.basista.75"
+            href="https://en.wikipedia.org/wiki/Ukraine"
             target="_blank"
             rel="noopener noreferrer"
           >
