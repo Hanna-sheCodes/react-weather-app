@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://en.wikipedia.org/wiki/Ukraine"
+            href="."
             target="_blank"
             rel="noopener noreferrer"
           >
